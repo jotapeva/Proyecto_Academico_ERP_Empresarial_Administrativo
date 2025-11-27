@@ -142,10 +142,9 @@ java -jar Obligatorio2_Juan_Pablo_Curbelo_-_Juan_Ignacio_Podesta.jar
 
 Todas las dependencias necesarias ya están incluidas en esta carpeta.
 
-### ✔ Modo de uso (código fuente)
-Si se desea ejecutar desde NetBeans:
-1. Importar la carpeta **/Proyecto/**
-2. Ejecutar el proyecto normalmente.
+### Codigo Fuente
+En la carpeta Proyecto se ve el codigo fuente separado por cada carpeta (paquete) creada en el src
+Se puede consultar y ver su funcionamiento interno
 
 ## 🧩 Tecnologías utilizadas
 - **Java 17**  
