@@ -146,6 +146,9 @@ Todas las dependencias necesarias ya están incluidas en esta carpeta.
 En la carpeta Proyecto se ve el codigo fuente separado por cada carpeta (paquete) creada en el src
 Se puede consultar y ver su funcionamiento interno
 
+### UML
+![Diagrama UML](/Proyecto/uml.png)
+
 ## 🧩 Tecnologías utilizadas
 - **Java 17**  
 - **Swing (GUI estilo Windows clásico)**  
